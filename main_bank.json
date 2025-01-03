@@ -1,0 +1,70 @@
+[{
+  "column_name": "id",
+  "data_type": "integer"
+}, {
+  "column_name": "trans_date_trans_time",
+  "data_type": "timestamp without time zone"
+}, {
+  "column_name": "cc_num",
+  "data_type": "bigint"
+}, {
+  "column_name": "amt",
+  "data_type": "numeric"
+}, {
+  "column_name": "lat",
+  "data_type": "numeric"
+}, {
+  "column_name": "long",
+  "data_type": "numeric"
+}, {
+  "column_name": "city_pop",
+  "data_type": "integer"
+}, {
+  "column_name": "dob",
+  "data_type": "date"
+}, {
+  "column_name": "unix_time",
+  "data_type": "bigint"
+}, {
+  "column_name": "merch_lat",
+  "data_type": "numeric"
+}, {
+  "column_name": "merch_long",
+  "data_type": "numeric"
+}, {
+  "column_name": "is_fraud",
+  "data_type": "integer"
+}, {
+  "column_name": "zip",
+  "data_type": "character varying"
+}, {
+  "column_name": "trans_num",
+  "data_type": "character"
+}, {
+  "column_name": "merchant",
+  "data_type": "character varying"
+}, {
+  "column_name": "category",
+  "data_type": "character varying"
+}, {
+  "column_name": "job",
+  "data_type": "character varying"
+}, {
+  "column_name": "first",
+  "data_type": "character varying"
+}, {
+  "column_name": "last",
+  "data_type": "character varying"
+}, {
+  "column_name": "gender",
+  "data_type": "character"
+}, {
+  "column_name": "street",
+  "data_type": "character varying"
+}, {
+  "column_name": "city",
+  "data_type": "character varying"
+}, {
+  "column_name": "state",
+  "data_type": "character"
+}]
